@@ -1,4 +1,4 @@
-# KACO New Energy
+# KACO new energy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-KACO new energy is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+KACO New Energy develops and manufactures solar inverters and energy storage solutions for residential, commercial, and utility‑scale photovoltaic systems. Based in Germany, the company emphasizes German engineering, sustainability, and cybersecurity in its products, offering string, hybrid, and battery inverters, monitoring tools, and services to help customers design, install, and operate clean energy installations worldwide.
 
-**Areas:** Inverters · Solar PV · Battery Storage · Energy Management · Grid Edge
+**Areas:** Company · Solar · Inverters · Energy Storage · Germany · Sustainability
 
-## KACO New Energy on APIs.io
+## KACO new energy on APIs.io
 
-Everything profiled for KACO New Energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kaco-new-energy/](https://apis.io/providers/kaco-new-energy/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [KACO New Energy API](https://apis.io/apis/kaco-new-energy/kaco-new-energy-api/) — Public information about KACO New Energy products and services, as described on the company website. No machine‑readable contract was found.
+Everything profiled for KACO new energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kaco-new-energy/](https://apis.io/providers/kaco-new-energy/)** — or go straight to one of the APIs or properties below.
 
 ### Published properties
 
@@ -84,21 +80,19 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [KACO New Energy Domain Security](https://apis.io/security/kaco-new-energy/kaco-new-energy-domain-security/)
+- [KACO new energy Domain Security](https://apis.io/security/kaco-new-energy/kaco-new-energy-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://kaco-newenergy.com/)
-- [Documentation](https://kaco-newenergy.com/company)
-- [Support](https://kaco-newenergy.com/service/customer-service)
-- [Blog](https://kaco-newenergy.com/news-and-events)
+- [Terms of service](https://kaco-newenergy.com/imprint)
 - [Privacy policy](https://kaco-newenergy.com/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 8.0** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 8.4** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
@@ -106,10 +100,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 16.7 |
-| Access clarity | 8.5 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -124,7 +118,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -136,7 +130,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 3.3** — Energy & Utilities
+**Regulatory alignment 11.5** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kaco-new-energy/](https://apis.io/providers/kaco-new-energy/).
 
@@ -144,7 +138,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for KACO New Energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for KACO new energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
